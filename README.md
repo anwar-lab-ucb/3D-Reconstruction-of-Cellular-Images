@@ -38,9 +38,9 @@ Here’s a sample datapoint from the dataset:
 
 ## Data Usage:
 Please make sure to cite the following work if you want to use the dataset:
-```
-H. Najafiaghdam, R. Rabbani, A. Gharia, E. P. Papageorgiou and Mekhail Anwar, "3D Reconstruction of Cellular Images from Microfabricated Imagers Using Fully-Adaptive Deep Neural Networks", submitted to Scientific Reports
-```
+
+**H. Najafiaghdam, R. Rabbani, A. Gharia, E. P. Papageorgiou and Mekhail Anwar, "3D Reconstruction of Cellular Images from Microfabricated Imagers Using Fully-Adaptive Deep Neural Networks", submitted to Scientific Reports**
+
 
 
 
