@@ -1,7 +1,12 @@
 # 3D-Reconstruction-of-Cellular-Images
 The goal of the project is to use Deep Neural Networks to deblur, enhance and estimate depth from images taken with a microfabricated lensless customized CMOS image sensor as described in [1-3].
 
-To train the models, a synthetic dataset, representative of images taken with the customized image sensor from real-life cell foci is generated which can be found inside the “Dataset” folder.
+To train the models, a synthetic dataset, representative of images taken with the customized image sensor from real-life cell foci is generated which can be found here:
+
+```
+git clone git://repo.eecs.berkeley.edu/users/rozhan_rabbani/3D-Reconstruction-of-Cellular-Images.git
+git clone https://repo.eecs.berkeley.edu/git-anon/users/rozhan_rabbani/3D-Reconstruction-of-Cellular-Images.git
+```
 
 To locate the tumor cell foci, a binary matrix is generated to represent a tumor mask with high values (>0.5) indicative of tumor and low values (<0.5) for non-cancerous background. Once the location of the cell foci is determined within the mask, the raw image in generated, and a tumor image is rendered by convolving the war image with the PSF (Point Spread Function) of the custom image sensor that was characterized previously.
 
