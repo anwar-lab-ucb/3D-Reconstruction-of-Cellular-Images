@@ -13,7 +13,7 @@ To locate the tumor cell foci, a binary matrix is generated to represent a tumor
 The first multi-layer cell detection module is based on a single sensor, observing a stack of 4 layers of cells that are randomly spaced between 0 and 1 mm away from the sensor.
 Emulated cell images from 4 different depth values are chosen randomly with a minimum difference of 250 µm from 0 to 1 mm. Initial cell images from each layer are convolved with the PSF of the custom-made imager and added together spatially to form a multilayer image. 
 
-“images_depth”:
+## “images_depth”:
 
 This dataset consists of a total of 6 .mat files.
 Each .mat file includes 2000 samples with the each datapoint in the following format:
@@ -36,14 +36,14 @@ Here’s a sample datapoint from the dataset:
 <div style="text-align:center"><img src="sample.png" /></div>.
 
 
-Data Usage:
+## Data Usage:
 Please make sure to cite the following work if you want to use the dataset:
 H. Najafiaghdam, R. Rabbani, A. Gharia, E. P. Papageorgiou and Mekhail Anwar, "3D Reconstruction of Cellular Images from Microfabricated Imagers Using Fully-Adaptive Deep Neural Networks", submitted to Scientific Reports
 
 
 
  
-References:
+## References:
 
 [1] 	Papageorgiou, E. P., Boser, B. E. & Anwar, M. Chip-Scale Angle-Selective Imager for In Vivo Microscopic Cancer Detection. IEEE Trans Biomed Circuits Syst 14, 91–103 (2020).
 
@@ -52,7 +52,7 @@ References:
 [3]	Rabbani, R. et al. Towards an Implantable Fluorescence Image Sensor for Real-Time Monitoring of Immune Response in Cancer Therapy. in IEEE Int. Conf. in Engineering in Medicine & Biology Society (EMBC) (2021).
 
 
-Email us for further questions:
+### Email us for further questions:
 
 [hossein_najafi@berkeley.edu](mailto:hossein_najafi@berkeley.edu)
 
