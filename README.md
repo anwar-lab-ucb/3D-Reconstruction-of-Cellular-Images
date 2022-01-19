@@ -30,7 +30,6 @@ the distance of each layer from sensor A (1mm-distance from sensor B) is stored 
 Here’s a sample datapoint from the dataset:
 
  
-
 References:
 
 [1] 	Papageorgiou, E. P., Boser, B. E. & Anwar, M. Chip-Scale Angle-Selective Imager for In Vivo Microscopic Cancer Detection. IEEE Trans Biomed Circuits Syst 14, 91–103 (2020).
@@ -38,4 +37,4 @@ References:
 [2] 	Najafiaghdam, H. et al. A Molecular Imaging ’Skin A Time-resolving Intraoperative Imager for Microscopic Residual Cancer Detection Using Enhanced Upconverting Nanoparticles∗. Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society, EMBS 2018-July, 3005–3008 (2018).
 
 [3]	Rabbani, R. et al. Towards an Implantable Fluorescence Image Sensor for Real-Time Monitoring of Immune Response in Cancer Therapy. in IEEE Int. Conf. in Engineering in Medicine & Biology Society (EMBC) (2021).
-![image](https://user-images.githubusercontent.com/47608363/150212569-4a9111a8-3c56-4c7d-9fc8-b62e54341b91.png)
+
