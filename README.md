@@ -28,7 +28,7 @@ For each layer, a 51x51 depth map image shows the presence of the cells with a p
 the distance of each layer from sensor A (1mm-distance from sensor B) is stored in “zdist_PSF” variable
 
 Here’s a sample datapoint from the dataset:
-![alt text](sample.png)
+   ![alt text](sample.png)
 
  
 References:
