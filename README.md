@@ -1,7 +1,7 @@
 # 3D-Reconstruction-of-Cellular-Images
 The goal of the project is to use Deep Neural Networks to deblur, enhance and estimate depth from images taken with a microfabricated lensless customized CMOS image sensor as described in [1-3].
 
-To train the models, a synthetic dataset, representative of images taken with the customized image sensor from real-life cell foci is generated which can be found here:
+To train the models, a synthetic dataset, representative of images taken with the customized image sensor from real-life cell foci is generated. The dataset can be accessed by running one of the following commands in your terminal:
 
 ```
 git clone git://repo.eecs.berkeley.edu/users/rozhan_rabbani/3D-Reconstruction-of-Cellular-Images.git
@@ -35,6 +35,11 @@ the distance of each layer from sensor A (1mm-distance from sensor B) is stored 
 Here’s a sample datapoint from the dataset:
 <div style="text-align:center"><img src="sample.png" /></div>.
 
+
+Data Usage:
+Please make sure to cite the following work if you want to use the associated dataset:
+
+
  
 References:
 
@@ -43,4 +48,9 @@ References:
 [2] 	Najafiaghdam, H. et al. A Molecular Imaging ’Skin A Time-resolving Intraoperative Imager for Microscopic Residual Cancer Detection Using Enhanced Upconverting Nanoparticles∗. Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society, EMBS 2018-July, 3005–3008 (2018).
 
 [3]	Rabbani, R. et al. Towards an Implantable Fluorescence Image Sensor for Real-Time Monitoring of Immune Response in Cancer Therapy. in IEEE Int. Conf. in Engineering in Medicine & Biology Society (EMBC) (2021).
+
+
+Email us for further questions:
+hossein_najafi@berkeley.edu
+rozhan_rabbani@berkeley.edu
 
