@@ -51,8 +51,8 @@ References:
 
 
 Email us for further questions:
+
 [hossein_najafi@berkeley.edu](mailto:hossein_najafi@berkeley.edu)
 
-hossein_najafi@berkeley.edu
-rozhan_rabbani@berkeley.edu
+[rozhan_rabbani@berkeley.edu](mailto:rozhan_rabbani@berkeley.edu)
 
