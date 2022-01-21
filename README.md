@@ -34,13 +34,13 @@ For each layer, a 51x51 depth map image shows the presence of the cells with a p
 the distance of each layer from sensor A (1mm-distance from sensor B) is stored in “zdist_PSF” variable
 
 Here’s a sample datapoint from the dataset:
-<div style="text-align:center"><img src="sample.png" /></div>.
+<div style="text-align:center"><img src="sample.png" /></div>
 
 
 ## Data Usage:
 Please make sure to cite the following work if you want to use the dataset:
 
-**H. Najafiaghdam, R. Rabbani, A. Gharia, E. P. Papageorgiou and Mekhail Anwar, "3D Reconstruction of Cellular Images from Microfabricated Imagers Using Fully-Adaptive Deep Neural Networks", submitted to Scientific Reports**
+**H. Najafiaghdam, R. Rabbani, A. Gharia, E. P. Papageorgiou and Mekhail Anwar, "3D Reconstruction of Cellular Images from Microfabricated Imagers Using Fully-Adaptive Deep Neural Networks", submitted to Scientific Reports.**
 
 
 ### license
